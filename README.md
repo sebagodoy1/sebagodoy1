@@ -10,4 +10,4 @@
 * 🔧 Git | Jupyter Notebook | Google Colab
 ## 📫🤝🏻 Connect with Me
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/sebagodoy/)👨🏻‍💻
-* Shoot me an [Email](sebajgodoy@gmail.com) 💌
+* Shoot me an [Email](mailto:sebajgodoy@gmail.com) 💌
