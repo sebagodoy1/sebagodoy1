@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**sebagodoy1/sebagodoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me
+* 🤔 Data Analyst and Accountant! Passionate about uncovering hidden patterns in data, transforming and visualizing it.
+* 🎓 Focusing on Data Science & Business Analytics: Studying Machine Learning and Tableau
+* 🌱 Book lover, nature enthusiast
+## 🛠 Tech Stack
+* 💻 Python | Numpy | Pandas | Excel | Flask 
+* 🛢 SQL | Power BI | Tableau
+* 🔧 Git | Jupyter Notebook | Google Colab
+## 📫🤝🏻 Connect with Me
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/sebagodoy/)👨🏻‍💻
+* Shoot me an [Email](sebajgodoy@gmail.com) 💌
