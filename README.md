@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 👨🏻‍💻 About Me
-* 🤔 Data Analyst and Accountant! Passionate about uncovering hidden patterns in data, transforming and visualizing it.
+* 🕵 Data Analyst and Accountant! Passionate about uncovering hidden patterns in data, transforming and visualizing it.
 * 🎓 Focusing on Data Science & Business Analytics: Studying Machine Learning and Tableau
 * 🌱 Book lover, nature enthusiast
 ## 🛠 Tech Stack
